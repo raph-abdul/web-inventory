@@ -1,0 +1,6 @@
+
+{
+    "rm": {
+        "rm-force": "rm -rf locker-haus"
+    }
+}
